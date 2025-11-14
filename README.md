@@ -49,3 +49,5 @@ Das integrierte Terminal öffnen.
 uv run python main.py
 ```   
 
+## Jupyter Notebook 
+
